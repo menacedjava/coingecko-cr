@@ -1,0 +1,2 @@
+# coingecko-cr
+coingecko-app
