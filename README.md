@@ -1,2 +1,2 @@
 # coingecko-cr
-coingecko-app
+coingecko-application-crystall
